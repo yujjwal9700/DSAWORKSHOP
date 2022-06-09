@@ -1,0 +1,53 @@
+You have given two numbers [a,b] find all the numbers which have 
+an odd number of divisors
+
+Input Format
+A number T represents the number of test cases
+Two numbers [a,b] represent the range
+
+Output 
+Count of the numbers having odd numbers of divisors in the range[a,b]
+
+Example->1
+Input
+2
+1 5
+2 6
+Output
+2
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow Up Question
+Just a small change in the question rather than having odd numbers of 
+divisors find the count of all the number having exactly 3 divisors
+
+Input Format
+A number T representing the number of testcase
+Two Space separated integers [A,B] representing the range
+Output
+Return the count of number having exactly 3 divisors in the given range
+
+Example1->
+Input
+2
+1 10
+2 6
+Output
+2
+1

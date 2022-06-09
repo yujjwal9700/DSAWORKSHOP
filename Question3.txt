@@ -1,0 +1,6 @@
+Design a Custom Dynamic Array. Write a production level code for the same
+Minimum Operation the Array should support
+1->Adding a new elements
+2->removing an elements
+3->check whether the given element is present or not
+4->Insert at Specific position
