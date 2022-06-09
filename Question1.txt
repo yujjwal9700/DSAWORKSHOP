@@ -1,6 +1,6 @@
 
 You are a new Employee of the Amazon Global Store.
-The Global Store WareHouse contains a series of n elements 
+The Global Store WareHouse contains a series of n orders 
 arranged in decreasing order of Customer Id.Your manager 
 asks you to create an API or the Global Store WareHouse 
 so that whenever we pass a customer id we get the number 
