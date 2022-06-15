@@ -32,3 +32,14 @@ Example->2
 [10,8,8,7,7,5]
 Customer_id=6
 [0,-1,-1]
+
+
+int pos1=n+1,pos2=-1;
+for(int i=0;i<n;i++)
+{
+    if(arr[i]==val)
+    {
+        pos1=min(pos1,i);
+        pos2=max(pos2,i);
+    }
+}
